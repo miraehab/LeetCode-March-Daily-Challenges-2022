@@ -16,3 +16,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of March 
 11. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/61.%20Rotate%20List.cpp">Rotate List</a>
 12. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/138.%20Copy%20List%20with%20Random%20Pointer.cpp">Copy List with Random Pointer</a>
 13. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/20.%20Valid%20Parentheses.cpp">Valid Parentheses</a>
+14. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/71.%20Simplify%20Path.cpp">Simplify Path</a>
