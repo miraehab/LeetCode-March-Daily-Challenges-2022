@@ -17,3 +17,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of March 
 12. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/138.%20Copy%20List%20with%20Random%20Pointer.cpp">Copy List with Random Pointer</a>
 13. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/20.%20Valid%20Parentheses.cpp">Valid Parentheses</a>
 14. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/71.%20Simplify%20Path.cpp">Simplify Path</a>
+15. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp">Minimum Remove to Make Valid Parentheses</a>
