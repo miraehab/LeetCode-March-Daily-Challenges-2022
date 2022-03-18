@@ -13,7 +13,6 @@ public:
                  if(!visited[s[i]-97]){
                     while(tmp.size() != 0 && tmp.top() > s[i] && letters[tmp.top()-97] > 0){
                         visited[tmp.top()-97] = 0;
-                        cout<<tmp.top()<<endl;
                         tmp.pop();
                     }
                     tmp.push(s[i]);
