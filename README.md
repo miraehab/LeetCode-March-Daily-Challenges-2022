@@ -21,3 +21,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of March 
 16. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/946.%20Validate%20Stack%20Sequences.cpp">Validate Stack Sequences</a>
 17. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/856.%20Score%20of%20Parentheses.cpp">Score of Parentheses</a>
 18. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/316.%20Remove%20Duplicate%20Letters.cpp">Remove Duplicate Letters</a>
+19. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/895.%20Maximum%20Frequency%20Stack.cpp">Maximum Frequency Stack</a>
