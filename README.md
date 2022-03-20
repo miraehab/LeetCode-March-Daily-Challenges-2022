@@ -22,3 +22,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of March 
 17. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/856.%20Score%20of%20Parentheses.cpp">Score of Parentheses</a>
 18. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/316.%20Remove%20Duplicate%20Letters.cpp">Remove Duplicate Letters</a>
 19. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/895.%20Maximum%20Frequency%20Stack.cpp">Maximum Frequency Stack</a>
+20. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.cpp">Minimum Domino Rotations For Equal Row</a>
