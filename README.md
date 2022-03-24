@@ -26,3 +26,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of March 
 21. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/763.%20Partition%20Labels.cpp">Partition Labels</a>
 22. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/1663.%20Smallest%20String%20With%20A%20Given%20Numeric%20Value.cpp">Smallest String With A Given Numeric Value</a>
 23. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/991.%20Broken%20Calculator.cpp">Broken Calculator</a>
+24. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/881.%20Boats%20to%20Save%20People.cpp">Boats to Save People</a>
