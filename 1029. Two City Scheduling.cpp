@@ -9,6 +9,7 @@ public:
         }
         sort(diff.begin(), diff.end());
         for(int i = 0; i < costs.size()/2; ++i){
+            //B-A+A = B
             sum+=diff[i];
         }
         return sum;
