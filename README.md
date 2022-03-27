@@ -29,3 +29,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of March 
 24. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/881.%20Boats%20to%20Save%20People.cpp">Boats to Save People</a>
 25. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/1029.%20Two%20City%20Scheduling.cpp">Two City Scheduling</a>
 26. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/704.%20Binary%20Search.cpp">Binary Search</a>
+27. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp">The K Weakest Rows in a Matrix</a>
