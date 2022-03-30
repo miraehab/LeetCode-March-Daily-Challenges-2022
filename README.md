@@ -32,3 +32,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of March 
 27. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp">The K Weakest Rows in a Matrix</a>
 28. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.cpp">Search in Rotated Sorted Array II</a>
 29. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/287.%20Find%20the%20Duplicate%20Number.cpp">Find the Duplicate Number</a>
+30. <a href="https://github.com/miraehab/LeetCode-March-Daily-Challenges/blob/main/74.%20Search%20a%202D%20Matrix.cpp">Search a 2D Matrix</a>
